@@ -1,0 +1,33 @@
+.navbar-header {
+   z-index: 100;
+
+}
+
+
+html{
+width: 1000px;
+padding: 0px;
+margin-left: auto;
+margin-right: auto;
+background-color: #dbd9d9;
+border-left:    1px solid black;
+ border-right:  1px solid black;
+
+
+}
+
+
+
+footer{
+  border-top: 5px solid grey;
+  background-color: #dbd9d9;
+}
+
+.navbar-nav{
+  color: blue;
+
+}
+.navbar-link{
+  color: blue;
+
+}
